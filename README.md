@@ -1,4 +1,4 @@
-# get-integer
+# GET-integer
 
 Submitting the 4th week task of Smart Methods training program. 
 
